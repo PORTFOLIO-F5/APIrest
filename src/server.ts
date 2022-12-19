@@ -9,4 +9,4 @@ app.use(express.json());
 app.use(messageRouter);
 
 
-app.listen(3001, () => console.log("listening on port 3001"));
+app.listen(3001, () => console.log("escuchando en puerto 3001"));
