@@ -1,0 +1,80 @@
+{
+    "database":{
+        "basics":{
+            "name": "Pedro Perez",
+            "age": 30,
+            "image": "",
+            "direction": "Barcelona",
+            "phone": "34 650 50 50 50",
+            "url": "http://www.pedroperez.com",
+            "email": "pedroperez@gmail.com"
+          },
+          "skill":{
+            "name": "Javascript",
+            "level": "Advanced",
+            "years": 1
+          },
+          "studies":{
+            "title": "Fullstack developer",
+            "institute": "Factoria F5",
+            "years": 1
+          },
+          "work experience":{
+            "name": "Expresa X",
+            "rols": "Developer full stack",
+            "years": 1
+          },
+          "projects":[
+              {
+                  "name": "Mi primer hola mundo",
+                  "description": "",
+                  "url": "",
+                  "language": "",
+                  "githubUrl": "",
+                  "image": ""
+              },
+              {
+                "name": "Mistery Random Travel",
+                "description": "",
+                "url": "",
+                "language": "",
+                "githubUrl": "",
+                "image": ""
+              },
+              {
+                  "name": "Yum-Yum",
+                  "description": "",
+                  "url": "",
+                  "language": "",
+                  "githubUrl": "",
+                  "image": ""
+              },
+              {
+                  "name": "Space-Jump",
+                  "description": "",
+                  "url": "",
+                  "language": "",
+                  "githubUrl": "",
+                  "image": ""
+              },
+              {
+                  "name": "Frankenwheel of Doom",
+                  "description": "",
+                  "url": "",
+                  "language": "",
+                  "githubUrl": "",
+                  "image": ""
+              },
+              {
+                  "name": "Api-Rest",
+                  "description": "",
+                  "url": "",
+                  "language": "",
+                  "githubUrl": "",
+                  "image": ""
+              }
+          ]
+    }
+    }
+  
+  
