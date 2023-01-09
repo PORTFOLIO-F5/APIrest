@@ -27,50 +27,50 @@
           "projects":[
               {
                   "name": "Mi primer hola mundo",
-                  "description": "",
-                  "url": "",
-                  "language": "",
-                  "githubUrl": "",
+                  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                  "url": "http://www.miprimerholamundo.com",
+                  "language": "html,ccs,javascript,typescript",
+                  "githubUrl": "https://github.com/miprimerholamundo",
                   "image": ""
               },
               {
                 "name": "Mistery Random Travel",
-                "description": "",
-                "url": "",
-                "language": "",
-                "githubUrl": "",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                "url": "http://www.misteryrandomtravel.com",
+                "language": "html,ccs,javascript,typescript",
+                "githubUrl": "https://github.com/misteryrandomtravel",
                 "image": ""
               },
               {
                   "name": "Yum-Yum",
-                  "description": "",
-                  "url": "",
-                  "language": "",
-                  "githubUrl": "",
+                  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                  "url": "http://www.yumyum.com",
+                  "language": "html,ccs,javascript,typescript",
+                  "githubUrl": "https://github.com/yumyum",
                   "image": ""
               },
               {
                   "name": "Space-Jump",
-                  "description": "",
-                  "url": "",
-                  "language": "",
-                  "githubUrl": "",
+                  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                  "url": "http://www.spacejump.com",
+                  "language": "html,ccs,javascript,typescript",
+                  "githubUrl": "https://github.com/spacejump",
                   "image": ""
               },
               {
                   "name": "Frankenwheel of Doom",
-                  "description": "",
-                  "url": "",
-                  "language": "",
-                  "githubUrl": "",
+                  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                  "url": "http://www.frankenwheelofdoom.com",
+                  "language": "html,ccs,javascript,typescript",
+                  "githubUrl": "https://github.com/frankenwheelofdoom",
                   "image": ""
               },
               {
                   "name": "Api-Rest",
-                  "description": "",
-                  "url": "",
-                  "language": "",
-                  "githubUrl": "",
+                  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                  "url": "http://www.apirest.com",
+                  "language": "html,ccs,javascript,typescript",
+                  "githubUrl": "https://github.com/apirest",
                   "image": ""
               }
           ]
